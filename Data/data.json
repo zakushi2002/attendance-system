@@ -1,0 +1,92 @@
+{
+  "20110354": {
+    "name": "Bui Ngoc Anh",
+    "major": "Front-end",
+    "starting_year": 2020,
+    "total_attendance": 1,
+    "standing": "FE",
+    "year": 3,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110374": {
+    "name": "Tran Minh G.Khanh",
+    "major": "Front-end",
+    "starting_year": 2020,
+    "total_attendance": 0,
+    "standing": "FE",
+    "year": 3,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110012": {
+    "name": "Nguyen Thanh Toan",
+    "major": "AI",
+    "starting_year": 2020,
+    "total_attendance": 0,
+    "standing": "SC",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110383": {
+    "name": "Nguyen Hoang Nhat Nam",
+    "major": "Front-end",
+    "starting_year": 2020,
+    "total_attendance": 4,
+    "standing": "FE",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110405": {
+    "name": "Ha Tan Tho",
+    "major": "Game Developer",
+    "starting_year": 2020,
+    "total_attendance": 1,
+    "standing": "GD",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110406": {
+    "name": "Huynh Quoc Thoai",
+    "major": "Bac-end",
+    "starting_year": 2020,
+    "total_attendance": 1,
+    "standing": "BE",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110422": {
+    "name": "Nguyen Minh Tri",
+    "major": "AI",
+    "starting_year": 2020,
+    "total_attendance": 1,
+    "standing": "AI",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110379": {
+    "name": "Le Tan Loc",
+    "major": "Block Chain",
+    "starting_year": 2020,
+    "total_attendance": 2,
+    "standing": "BC",
+    "year": 2,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110420": {
+    "name": "Nguyen Huynh T.Toan",
+    "major": "Back-end",
+    "starting_year": 2020,
+    "total_attendance": 2,
+    "standing": "BE",
+    "year": 3,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  },
+  "20110002": {
+    "name": "Nguyen Xuan Loc",
+    "major": "Back-end",
+    "starting_year": 2020,
+    "total_attendance": 2,
+    "standing": "BE",
+    "year": 3,
+    "last_attendance_time": "2023-04-04 07:54:34"
+  }
+}
