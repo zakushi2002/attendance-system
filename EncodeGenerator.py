@@ -31,8 +31,6 @@ for link in pathImage:
     bucket = storage.bucket()
     blob = bucket.blob(photoName)
     blob.upload_from_filename(photoName)
-    # print(path)
-    # print(os.path.splitext(path)[0])
 
 print(idStds)
 
